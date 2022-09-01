@@ -73,4 +73,10 @@ Znajomość podstawowa
 # Przykładowe przypadki testowe
 
 * [Przypadki testowe - phptravels.net](https://docs.google.com/document/d/1PGlee0GhsuMb3TbyJFKZO3-2U7RsnVkR/edit?usp=sharing&ouid=112164552745114415885&rtpof=true&sd=true)
+* [Test - phptravels.net](https://docs.google.com/document/d/1dk-KwD2fW9N1av1xegtd8QtIFeGiOmNS/edit?usp=sharing&ouid=112164552745114415885&rtpof=true&sd=true)
+* [Test - phptravels.net](https://docs.google.com/document/d/19826Aa_8-xy-_LnMt_kFLkzxSVuBIj2O/edit?usp=sharing&ouid=112164552745114415885&rtpof=true&sd=true)
 
+# Przykładowe zgłoszenia bugów
+
+*[Zgłoszenie błędu - phptravels.net](https://docs.google.com/document/d/1Ahy2NNWM6Ht-dumofh05fNiNNefSqMXb/edit?usp=sharing&ouid=112164552745114415885&rtpof=true&sd=true)
+*[Zgłoszenie błędu - phptravels.net](https://docs.google.com/document/d/12gUOBggyOXEX2H5tDiHzrXafkc6J7aIV/edit?usp=sharing&ouid=112164552745114415885&rtpof=true&sd=true)

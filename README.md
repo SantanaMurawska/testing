@@ -78,5 +78,5 @@ Znajomość podstawowa
 
 # Przykładowe zgłoszenia bugów
 
-*[Zgłoszenie błędu - phptravels.net](https://docs.google.com/document/d/1Ahy2NNWM6Ht-dumofh05fNiNNefSqMXb/edit?usp=sharing&ouid=112164552745114415885&rtpof=true&sd=true)
-*[Zgłoszenie błędu - phptravels.net](https://docs.google.com/document/d/12gUOBggyOXEX2H5tDiHzrXafkc6J7aIV/edit?usp=sharing&ouid=112164552745114415885&rtpof=true&sd=true)
+* [Zgłoszenie błędu - phptravels.net](https://docs.google.com/document/d/1Ahy2NNWM6Ht-dumofh05fNiNNefSqMXb/edit?usp=sharing&ouid=112164552745114415885&rtpof=true&sd=true)
+* [Zgłoszenie błędu - phptravels.net](https://docs.google.com/document/d/12gUOBggyOXEX2H5tDiHzrXafkc6J7aIV/edit?usp=sharing&ouid=112164552745114415885&rtpof=true&sd=true)

@@ -69,3 +69,8 @@ Znajomość podstawowa
 # Przykładowy Test Plan
 
 * [Test Plan - maxizoo.pl](https://docs.google.com/document/d/1_BrVfHD9ZFrEUzJhXRbUlxlPXCxsEEEB/edit?usp=sharing&ouid=112164552745114415885&rtpof=true&sd=true)
+
+# Przykładowe przypadki testowe
+
+* [Przypadki testowe - phptravels.net](https://docs.google.com/document/d/1PGlee0GhsuMb3TbyJFKZO3-2U7RsnVkR/edit?usp=sharing&ouid=112164552745114415885&rtpof=true&sd=true)
+

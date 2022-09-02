@@ -10,13 +10,17 @@ FUTURE COLLARS - KURS
 
 27.06.2022-19.08.2022
 
-* pisanie przypadków testowych, planów testów, zgłaszanie błędów
-* materiał ISTQB
-* projekt scrum
-* testowanie aplikacji webowych
-* techniki czarnoskrzynkowe
+* proces testowy, typy i poziomy testów, raporty z testów
+* pisanie scenariuszy i przypadków testowych
+* zgłaszanie błędów
+* proces tworzenia i wykorzystywania danych testowych podczastestów
+* znajomość technik projektowania przypadków testowych wraz z ichpraktycznym wykorzystaniem
+* analiza dokumentacji i zadawania precyzyjnych pytań dotyczącychdokumentacji
+* metodyka zarządzania projektem IT: waterfall, agile i scrum
+* praca z narzędziami testerskimi: jira, XRAY
 * podstawy SQL
 
+[Certyfikat](https://drive.google.com/file/d/1ZKKdYgjZbsghDOEzwJhriKhr_OSUzjDb/view?usp=sharing)
 
 **SprintED: zostań testerem_ką**
 
